@@ -42,10 +42,12 @@
 - [Boolean Blindness](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 
+### Week x: Lenses
+
+- [Lens Tutorial](https://hackage.haskell.org/package/lens-tutorial-1.0.2/docs/Control-Lens-Tutorial.html) - Haskell
+
 ### To be sorted.
 
-Folds and Unfolds
-Basic Optics
 Existential Types
 Codata/Corecursion
 Comonad
