@@ -23,7 +23,6 @@
 
 - Control Monad
 - Delimited Continuations
-- 
 
 ### Week x: Macros
 
@@ -38,9 +37,11 @@
 
 ### Week x: Misc
 
-- [https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
-- [https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/](Dynamic Languages are Static Languages
-)
+- [What, If Anything, Is A Declarative Language?](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
+- [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
+
+
+
 
 Folds and Unfolds
 Basic Optics
