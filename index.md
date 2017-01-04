@@ -15,7 +15,9 @@
 ### Week x: Arrows
 
 - [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - John Huges
+- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows)
 - [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
+- [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/)
 
 Folds and Unfolds
 Basic Optics
