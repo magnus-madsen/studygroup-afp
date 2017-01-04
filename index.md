@@ -13,6 +13,7 @@ Haskell, Idris, Scala, Scheme,
 - [Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
 - [The Type Astronauts Guide to Shapeless](https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf)
 - [Shapeless 2.0 Feature Overview](https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0)
+- [Theorems for Free](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 
 ### Week 2: Monad Transformers
 
