@@ -46,6 +46,12 @@
 
 - [Lens Tutorial](https://hackage.haskell.org/package/lens-tutorial-1.0.2/docs/Control-Lens-Tutorial.html) - Haskell
 
+### Higher-Order Abstract Syntax
+
+- [Higher-Order Abstract Syntax](https://en.wikipedia.org/wiki/Higher-order_abstract_syntax) - Wikipedia
+- [Higher-Order Abstract Syntax](http://www.cs.cmu.edu/afs/cs/Web/People/fp/papers/pldi88.pdf) - Frank Pfenning & Conal Elliott (PLDI '88)
+
+
 ### To be sorted.
 
 Existential Types
