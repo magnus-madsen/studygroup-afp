@@ -29,6 +29,19 @@
 
 - Quasiquotation
 
+### Week x: Rank-N Types
+
+- [Arbitrary Rank Polymorphism](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#arbitrary-rank-polymorphism) - GHC Doc
+- [24 Days of GHC Extensions: Rank N Types](https://ocharles.org.uk/blog/guest-posts/2014-12-18-rank-n-types.html)
+- [Explaining Haskell RankNTypes for All](http://sleepomeno.github.io/blog/2014/02/12/Explaining-Haskell-RankNTypes-for-all/)
+- [Higher-rank and higher-kinded types](https://www.stephanboyer.com/post/115/higher-rank-and-higher-kinded-types)
+
+### Week x: Misc
+
+- [https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
+- [https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/](Dynamic Languages are Static Languages
+)
+
 Folds and Unfolds
 Basic Optics
 Existential Types
@@ -45,7 +58,6 @@ higher order abstract styntax
 macros
 Scalaz
 Free monads, extensisble effects.
-RankNTypes
 modules/functors (in the parametric module sense).
 Records, variants, and row polymorphism.
 Modules, signatures, and functors.
