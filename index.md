@@ -39,9 +39,10 @@
 
 - [What, If Anything, Is A Declarative Language?](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
 - [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
+- [Boolean Blindness](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 
-
-
+### To be sorted.
 
 Folds and Unfolds
 Basic Optics
@@ -58,10 +59,10 @@ graph reduction
 higher order abstract styntax
 macros
 Scalaz
-Free monads, extensisble effects.
-modules/functors (in the parametric module sense).
-Records, variants, and row polymorphism.
-Modules, signatures, and functors.
-Phantom types and generalised algebraic data types.
-Type-indexed values.
-Staging and metaprogramming.
+Free monads, extensisble effects
+modules/functors
+Records, variants, and row polymorphism
+Modules, signatures, and functors
+Phantom types and generalised algebraic data types
+Type-indexed values
+Staging and metaprogramming
