@@ -1,13 +1,18 @@
-### Summary
+### Topics
+
+Haskell, Idris, Scala, Scheme,
 
 ### Organization
-
-
 
 ### Week 1: Type Classes
 
 - Type Classes, Functional Depedencies
-- [Learning ScalaZ](http://eed3si9n.com/learning-scalaz/index.html) - 
+- [Learning ScalaZ](http://eed3si9n.com/learning-scalaz/index.html)
+- [Towards ScalaZ (Part I)](http://typelevel.org/blog/2013/10/13/towards-scalaz-1.html)
+- [Towards ScalaZ (Part I)](http://typelevel.org/blog/2013/10/13/towards-scalaz-1.html)
+- [Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
+- [The Type Astronauts Guide to Shapeless](https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf)
+- [Shapeless 2.0 Feature Overview](https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0)
 
 ### Week 2: Monad Transformers
 
