@@ -58,6 +58,7 @@ Haskell, Idris, Scala, Scheme,
 ### Week x: Lenses
 
 - [Lens Tutorial](https://hackage.haskell.org/package/lens-tutorial-1.0.2/docs/Control-Lens-Tutorial.html) - Haskell
+- [Optics for Scala](http://julien-truffaut.github.io/Monocle/)
 
 ### Higher-Order Abstract Syntax
 
