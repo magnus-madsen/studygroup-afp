@@ -15,9 +15,19 @@
 ### Week x: Arrows
 
 - [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - John Huges
-- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows)
+- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows) - WikiBooks
 - [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
 - [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/)
+
+### Week x: Continuations
+
+- Control Monad
+- Delimited Continuations
+- 
+
+### Week x: Macros
+
+- Quasiquotation
 
 Folds and Unfolds
 Basic Optics
@@ -25,7 +35,6 @@ Existential Types
 Codata/Corecursion
 Comonad
 Finally tagless,
-Advanced monds (continiation)
 Type Families
 Kind Polymorphism
 Generic Programming
@@ -37,8 +46,6 @@ macros
 Scalaz
 Free monads, extensisble effects.
 RankNTypes
-Continuation / Delimited Continuation
-Quasiquotation
 modules/functors (in the parametric module sense).
 Records, variants, and row polymorphism.
 Modules, signatures, and functors.
