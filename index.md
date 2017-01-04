@@ -10,16 +10,18 @@
 
 ### Week 3: Generalized Algebraic Data Types 
 
-Functional Reactive Prorgamming
+### Week x: Functional Reactive Prorgamming
 
-Prorgamming With Arrows
+### Week x: Arrows
+
+- [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - John Huges
+- [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
 
 Folds and Unfolds
 Basic Optics
 Existential Types
 Codata/Corecursion
 Comonad
-
 Finally tagless,
 Advanced monds (continiation)
 Type Families
@@ -33,13 +35,9 @@ macros
 Scalaz
 Free monads, extensisble effects.
 RankNTypes
-
 Continuation / Delimited Continuation
-
 Quasiquotation
-
 modules/functors (in the parametric module sense).
-
 Records, variants, and row polymorphism.
 Modules, signatures, and functors.
 Phantom types and generalised algebraic data types.
