@@ -1,6 +1,13 @@
+### Summary
+
+### Organization
+
+
+
 ### Week 1: Type Classes
 
 - Type Classes, Functional Depedencies
+- [Learning ScalaZ](http://eed3si9n.com/learning-scalaz/index.html) - 
 
 ### Week 2: Monad Transformers
 
@@ -64,9 +71,7 @@ Generic Programming
 Type Level programming
 Singleton Types
 graph reduction
-higher order abstract styntax
 macros
-Scalaz
 Free monads, extensisble effects
 modules/functors
 Records, variants, and row polymorphism
