@@ -71,6 +71,10 @@ Haskell, Idris, Scala, Scheme,
 - [Scala: Types of a Higher Kind](http://blogs.atlassian.com/2013/09/scala-types-of-a-higher-kind/) - Atlassian
 - [Generics of a Higher Kind](http://adriaanm.github.io/files/higher.pdf) - Adriaan Moors, Frank Piessens, and Martin Odersky.
 
+### Staging and Meta-Programming
+
+- [Lightweight Modular Staging: A Pragmatic Approach to Runtime Code Generation and Compiled DSLs](https://infoscience.epfl.ch/record/150347/files/gpce63-rompf.pdf)
+
 
 ### To be sorted.
 
@@ -90,4 +94,3 @@ Records, variants, and row polymorphism
 Modules, signatures, and functors
 Phantom types and generalised algebraic data types
 Type-indexed values
-Staging and metaprogramming
