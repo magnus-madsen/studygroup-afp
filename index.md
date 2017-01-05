@@ -38,6 +38,8 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Theorems for Free](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 - [The Typeclassopedia](https://wiki.haskell.org/wikiupload/8/85/TMR-Issue13.pdf) - Brent Yorgey, the Monad Reader, Issue 13
 
+### Free monads
+
 ### Week 2: Monad Transformers
 
 ### Week 3: Advanced Functors
@@ -113,22 +115,26 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Phantom Types in Scala](https://blog.codecentric.de/en/2016/02/phantom-types-scala/) - Blog Post
 - [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html) - Blog Post
 
-### Implementation of Functional Languages
-
-- Partial Evaluation
-- Finally Tagless
-- Graph Reduction
 
 ### Type Level Programming
 
 - [Type-Level Instant Insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf) Conrad Parker, Monad Reader, Issue 8
 
-### To be sorted.
+### Macros
 
-Existential Types
-Singleton Types
-Type Families
-Codata/Corecursion/Comonad
-Generic Programming
-macros
-Free monads
+### Existential Types
+
+### Singleton Types
+
+### Type Families
+
+### Codata/Corecursion/Comonad
+
+
+## Topics to be covered at a later time...
+
+#### Implementation of Functional Languages
+
+- Partial Evaluation
+- Finally Tagless
+- Graph Reduction
