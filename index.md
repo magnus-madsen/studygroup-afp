@@ -26,7 +26,7 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 ### Type Indexed Values
 - [A Working Programmer’s Guide to Type-Indexed Values](https://blogs.janestreet.com/a-working-programmers-guide-to-type-indexed-values/) Blog Post, Jane Street
 
-### Week 1: Type Classes
+### Type Classes I
 
 - Type Classes, Functional Depedencies
 - [Learning ScalaZ](http://eed3si9n.com/learning-scalaz/index.html)
@@ -38,35 +38,18 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Theorems for Free](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
 - [The Typeclassopedia](https://wiki.haskell.org/wikiupload/8/85/TMR-Issue13.pdf) - Brent Yorgey, the Monad Reader, Issue 13
 
-### Free monads
+#### Type Classes II
 
-### Week 2: Monad Transformers
-
-### Week 3: Advanced Functors
+#### Type Classes III
 
 - exponential, profunctors, contravariant
+- Free monads
 
-### Week 3: Generalized Algebraic Data Types 
+#### Monad Transformers
+
+#### Generalized Algebraic Data Types 
 
 - [Monad Reader](https://themonadreader.files.wordpress.com/2013/08/issue221.pdf)
-
-### Week x: Functional Reactive Prorgamming
-
-### Week x: Arrows
-
-- [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - John Huges
-- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows) - WikiBooks
-- [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
-- [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/)
-
-### Week x: Continuations
-
-- Control Monad
-- Delimited Continuations
-
-### Week x: Macros
-
-- Quasiquotation
 
 ### Week x: Rank-N Types
 
@@ -98,10 +81,6 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Scala: Types of a Higher Kind](http://blogs.atlassian.com/2013/09/scala-types-of-a-higher-kind/) - Atlassian
 - [Generics of a Higher Kind](http://adriaanm.github.io/files/higher.pdf) - Adriaan Moors, Frank Piessens, and Martin Odersky.
 
-### Staging and Meta-Programming
-
-- [Lightweight Modular Staging: A Pragmatic Approach to Runtime Code Generation and Compiled DSLs](https://infoscience.epfl.ch/record/150347/files/gpce63-rompf.pdf)
-
 ### Row Polymorphism
 
 - [Row Polymorphism Isn't Subtyping](https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping) - Blog Post
@@ -120,7 +99,10 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 - [Type-Level Instant Insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf) Conrad Parker, Monad Reader, Issue 8
 
-### Macros
+### Week x: Continuations
+
+- Control Monad
+- Delimited Continuations
 
 ### Existential Types
 
@@ -130,11 +112,28 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 ### Codata/Corecursion/Comonad
 
+### Functional Reactive Prorgamming
+
+### Arrows
+
+- [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - John Huges
+- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows) - WikiBooks
+- [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
+- [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/)
+
 
 ## Topics to be covered at a later time...
+
+#### Macros
+
+- Quasiquotation
 
 #### Implementation of Functional Languages
 
 - Partial Evaluation
 - Finally Tagless
 - Graph Reduction
+
+#### Staging and Meta-Programming
+
+- [Lightweight Modular Staging: A Pragmatic Approach to Runtime Code Generation and Compiled DSLs](https://infoscience.epfl.ch/record/150347/files/gpce63-rompf.pdf)
