@@ -16,6 +16,13 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 ## Schedule
 
+### Modules, Signatures, and Functors
+
+- [Modules iN Standard ML](https://en.wikipedia.org/wiki/Standard_ML#Module_system) - Wikipedia
+- [A Crash Course on ML Modules](http://jozefg.bitbucket.org/posts/2015-01-08-modules.html)
+- [SML Modules](http://homepages.inf.ed.ac.uk/mfourman/teaching/mlCourse/notes/sml-modules.html)
+- [OCaml Modules](https://ocaml.org/learn/tutorials/modules.html)
+
 ### Week 1: Type Classes
 
 - Type Classes, Functional Depedencies
@@ -103,6 +110,5 @@ macros
 Free monads, extensisble effects
 modules/functors
 Records, variants, and row polymorphism
-Modules, signatures, and functors
 Phantom types and generalised algebraic data types
 Type-indexed values
