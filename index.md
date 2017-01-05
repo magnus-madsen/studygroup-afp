@@ -47,6 +47,8 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Why Free Monads Matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) - Blog Post, Haskell
 - [Free Monads are Simple](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html) - Blog Post, Scala
 - [Free Monads, What and Why](https://softwaremill.com/free-monads/) - Blog Post, Scala
+- [Understanding Free Monads](http://perevillega.com/understanding-free-monads) - Blog Post, Scala
+- [Overview of the Free Monad](https://blog.scalac.io/2016/06/02/overview-of-free-monad-in-cats.html) - Blog Post, Scala
 
 - exponential, profunctors, contravariant
 - Free monads
