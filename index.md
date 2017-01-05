@@ -23,49 +23,43 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [SML Modules](http://homepages.inf.ed.ac.uk/mfourman/teaching/mlCourse/notes/sml-modules.html)
 - [OCaml Modules](https://ocaml.org/learn/tutorials/modules.html)
 
-### Type Indexed Values
-- [A Working Programmer’s Guide to Type-Indexed Values](https://blogs.janestreet.com/a-working-programmers-guide-to-type-indexed-values/) Blog Post, Jane Street
+- [A Working Programmer’s Guide to Type-Indexed Values](https://blogs.janestreet.com/a-working-programmers-guide-to-type-indexed-values/) Blog Post, Jane Street (WHERE DOES THIS FIT?)
 
-### Type Classes I
+#### Type Classes I
 
-- Type Classes, Functional Depedencies
-- [Learning ScalaZ](http://eed3si9n.com/learning-scalaz/index.html)
-- [Towards ScalaZ (Part I)](http://typelevel.org/blog/2013/10/13/towards-scalaz-1.html)
-- [Towards ScalaZ (Part II)](http://typelevel.org/blog/2013/12/15/towards-scalaz-2.html)
-- [Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
-- [The Type Astronauts Guide to Shapeless](https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf)
-- [Shapeless 2.0 Feature Overview](https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0)
 - [Theorems for Free](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
+- [Learning ScalaZ](http://eed3si9n.com/learning-scalaz/index.html)
 - [The Typeclassopedia](https://wiki.haskell.org/wikiupload/8/85/TMR-Issue13.pdf) - Brent Yorgey, the Monad Reader, Issue 13
 
 #### Type Classes II
+
+- [Towards ScalaZ (Part I)](http://typelevel.org/blog/2013/10/13/towards-scalaz-1.html)
+- [Towards ScalaZ (Part II)](http://typelevel.org/blog/2013/12/15/towards-scalaz-2.html)
+- [Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
+- [Shapeless 2.0 Feature Overview](https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0)
+- [The Type Astronauts Guide to Shapeless](https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf)
 
 #### Type Classes III
 
 - exponential, profunctors, contravariant
 - Free monads
+- Functional Depedencies
 
 #### Monad Transformers
+
 
 #### Generalized Algebraic Data Types 
 
 - [Monad Reader](https://themonadreader.files.wordpress.com/2013/08/issue221.pdf)
 
-### Week x: Rank-N Types
+### Rank-N Types
 
 - [Arbitrary Rank Polymorphism](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#arbitrary-rank-polymorphism) - GHC Doc
 - [24 Days of GHC Extensions: Rank N Types](https://ocharles.org.uk/blog/guest-posts/2014-12-18-rank-n-types.html)
 - [Explaining Haskell RankNTypes for All](http://sleepomeno.github.io/blog/2014/02/12/Explaining-Haskell-RankNTypes-for-all/)
 - [Higher-rank and higher-kinded types](https://www.stephanboyer.com/post/115/higher-rank-and-higher-kinded-types)
 
-### Week x: Misc
-
-- [What, If Anything, Is A Declarative Language?](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
-- [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
-- [Boolean Blindness](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
-- [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
-
-### Week x: Lenses
+### Lenses
 
 - [Lens Tutorial](https://hackage.haskell.org/package/lens-tutorial-1.0.2/docs/Control-Lens-Tutorial.html) - Haskell
 - [Optics for Scala](http://julien-truffaut.github.io/Monocle/)
@@ -114,12 +108,19 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 ### Functional Reactive Prorgamming
 
-### Arrows
+#### Arrows
 
-- [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - John Huges
-- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows) - WikiBooks
+- [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - Research Paper, John Huges
+- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows) - Wikibooks
 - [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
-- [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/)
+- [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/) - Blog Post
+
+#### Misc
+
+- [What, If Anything, Is A Declarative Language?](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
+- [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
+- [Boolean Blindness](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+- [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 
 
 ## Topics to be covered at a later time...
