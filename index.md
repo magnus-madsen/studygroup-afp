@@ -45,6 +45,8 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 ### Week 3: Generalized Algebraic Data Types 
 
+- [Monad Reader](https://themonadreader.files.wordpress.com/2013/08/issue221.pdf)
+
 ### Week x: Functional Reactive Prorgamming
 
 ### Week x: Arrows
@@ -119,11 +121,10 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 ### To be sorted.
 
 Existential Types
-Codata/Corecursion/Comonad
+Singleton Types
 Type Families
+Codata/Corecursion/Comonad
 Generic Programming
 Type Level programming
-Singleton Types
 macros
-Free monads, extensisble effects
-Type-indexed values
+Free monads
