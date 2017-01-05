@@ -18,7 +18,7 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 ### Modules, Signatures, and Functors
 
-- [Modules iN Standard ML](https://en.wikipedia.org/wiki/Standard_ML#Module_system) - Wikipedia
+- [Modules in Standard ML](https://en.wikipedia.org/wiki/Standard_ML#Module_system) - Wikipedia
 - [A Crash Course on ML Modules](http://jozefg.bitbucket.org/posts/2015-01-08-modules.html)
 - [SML Modules](http://homepages.inf.ed.ac.uk/mfourman/teaching/mlCourse/notes/sml-modules.html)
 - [OCaml Modules](https://ocaml.org/learn/tutorials/modules.html)
@@ -118,6 +118,10 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - Finally Tagless
 - Graph Reduction
 
+### Type Level Programming
+
+- [Type-Level Instant Insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf) Conrad Parker, Monad Reader, Issue 8
+
 ### To be sorted.
 
 Existential Types
@@ -125,6 +129,5 @@ Singleton Types
 Type Families
 Codata/Corecursion/Comonad
 Generic Programming
-Type Level programming
 macros
 Free monads
