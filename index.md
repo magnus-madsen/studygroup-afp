@@ -94,21 +94,26 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 - [Lightweight Modular Staging: A Pragmatic Approach to Runtime Code Generation and Compiled DSLs](https://infoscience.epfl.ch/record/150347/files/gpce63-rompf.pdf)
 
+### Row Polymorphism
+
+- [Row Polymorphism Isn't Subtyping](https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping) - Blog Post
+- [What are the Major Differences Between Row Polymorphism and Subtyping?](http://cs.stackexchange.com/questions/53998/what-are-the-major-differences-between-row-polymorphism-and-subtyping) - StackOverflow
+
+### Implementation of Functional Languages
+
+- Partial Evaluation
+- Finally Tagless
+- Graph Reduction
 
 ### To be sorted.
 
 Existential Types
-Codata/Corecursion
-Comonad
-Finally tagless,
+Codata/Corecursion/Comonad
 Type Families
 Generic Programming
 Type Level programming
 Singleton Types
-graph reduction
 macros
 Free monads, extensisble effects
-modules/functors
-Records, variants, and row polymorphism
-Phantom types and generalised algebraic data types
+Phantom types
 Type-indexed values
