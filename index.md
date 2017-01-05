@@ -41,6 +41,13 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 
 #### Type Classes III
 
+- [Profunctors in Haskell](http://blog.sigfpe.com/2011/07/profunctors-in-haskell.html) - Blog Post on Profunctors,
+- [I love profunctors. They're so easy](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/profunctors) - Blog Post, School of Haskell
+- [Rotten Bananas](http://comonad.com/reader/2008/rotten-bananas/) - Blog Post on Exponential Functors,
+- [Why Free Monads Matter](http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html) - Blog Post, Haskell
+- [Free Monads are Simple](http://underscore.io/blog/posts/2015/04/14/free-monads-are-simple.html) - Blog Post, Scala
+- [Free Monads, What and Why](https://softwaremill.com/free-monads/) - Blog Post, Scala
+
 - exponential, profunctors, contravariant
 - Free monads
 - Functional Depedencies
