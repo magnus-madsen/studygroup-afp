@@ -36,6 +36,7 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [The Type Astronauts Guide to Shapeless](https://github.com/underscoreio/shapeless-guide/blob/develop/dist/shapeless-guide.pdf)
 - [Shapeless 2.0 Feature Overview](https://github.com/milessabin/shapeless/wiki/Feature-overview:-shapeless-2.0.0)
 - [Theorems for Free](http://www.cs.sfu.ca/CourseCentral/831/burton/Notes/July14/free.pdf)
+- [The Typeclassopedia](https://wiki.haskell.org/wikiupload/8/85/TMR-Issue13.pdf) - Brent Yorgey, the Monad Reader, Issue 13
 
 ### Week 2: Monad Transformers
 
