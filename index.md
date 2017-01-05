@@ -1,8 +1,20 @@
-### Topics
+## Purpose
 
-Haskell, Idris, Scala, Scheme,
+To learn about advanced functional programming techniques, specifically to
 
-### Organization
+- Understand the motivation for each technique/language feature.
+- Learn how and when to use that technique/feature.
+- Compare and contrast different techniques.
+- Gain practical (i.e. conding) experience with each technique.
+
+In particular, we will look into features from languages such as: Haskell, Idris, Scala, Racket, OCaml, Standard ML, etc. The content *is* biased towards Haskell, but our goal is to go beyond that when possible.
+
+## Organization
+
+Each week will cover one topic with approximately one hour of reading material before the one hour meeting.
+The format of each meeting will be a questions-and-answers along with a walkthrough of one or more examples on the projector by the person responsible for the particular topic.
+
+## Schedule
 
 ### Week 1: Type Classes
 
