@@ -99,6 +99,14 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Row Polymorphism Isn't Subtyping](https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping) - Blog Post
 - [What are the Major Differences Between Row Polymorphism and Subtyping?](http://cs.stackexchange.com/questions/53998/what-are-the-major-differences-between-row-polymorphism-and-subtyping) - StackOverflow
 
+### Phantom Types
+
+- [Phantom Type](https://wiki.haskell.org/Phantom_type) - Haskell Wiki
+- [Phantom Types](https://en.wikibooks.org/wiki/Haskell/Phantom_types) WikiBooks
+- [Motivation Behind Phantom Types](http://stackoverflow.com/questions/28247543/motivation-behind-phantom-types) - StackOverflow
+- [Phantom Types in Scala](https://blog.codecentric.de/en/2016/02/phantom-types-scala/) - Blog Post
+- [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html) - Blog Post
+
 ### Implementation of Functional Languages
 
 - Partial Evaluation
