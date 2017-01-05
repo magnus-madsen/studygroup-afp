@@ -65,6 +65,12 @@ Haskell, Idris, Scala, Scheme,
 - [Higher-Order Abstract Syntax](https://en.wikipedia.org/wiki/Higher-order_abstract_syntax) - Wikipedia
 - [Higher-Order Abstract Syntax](http://www.cs.cmu.edu/afs/cs/Web/People/fp/papers/pldi88.pdf) - Frank Pfenning & Conal Elliott (PLDI '88)
 
+### Higher Kinded Types
+
+- [What is a Higher-Kinded Type?](http://stackoverflow.com/questions/6246719/what-is-a-higher-kinded-type-in-scala) - StackOverflow
+- [Scala: Types of a Higher Kind](http://blogs.atlassian.com/2013/09/scala-types-of-a-higher-kind/) - Atlassian
+- [Generics of a Higher Kind](http://adriaanm.github.io/files/higher.pdf) - Adriaan Moors, Frank Piessens, and Martin Odersky.
+
 
 ### To be sorted.
 
@@ -73,7 +79,6 @@ Codata/Corecursion
 Comonad
 Finally tagless,
 Type Families
-Kind Polymorphism
 Generic Programming
 Type Level programming
 Singleton Types
