@@ -23,6 +23,9 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [SML Modules](http://homepages.inf.ed.ac.uk/mfourman/teaching/mlCourse/notes/sml-modules.html)
 - [OCaml Modules](https://ocaml.org/learn/tutorials/modules.html)
 
+### Type Indexed Values
+- [A Working Programmer’s Guide to Type-Indexed Values](https://blogs.janestreet.com/a-working-programmers-guide-to-type-indexed-values/) Blog Post, Jane Street
+
 ### Week 1: Type Classes
 
 - Type Classes, Functional Depedencies
@@ -123,5 +126,4 @@ Type Level programming
 Singleton Types
 macros
 Free monads, extensisble effects
-Phantom types
 Type-indexed values
