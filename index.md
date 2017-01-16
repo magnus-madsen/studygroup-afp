@@ -53,6 +53,7 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - exponential, profunctors, contravariant
 - Free monads
 - Functional Depedencies
+- Finally Tagless https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80
 
 #### Monad Transformers
 
