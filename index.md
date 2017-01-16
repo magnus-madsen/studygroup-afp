@@ -1,29 +1,41 @@
 ## Purpose
 
-To learn about advanced functional programming techniques, specifically to
+To learn advanced functional programming techniques, specifically to:
 
-- Understand the motivation for each technique/language feature.
-- Learn how and when to use that technique/feature.
-- Compare and contrast different techniques.
-- Gain practical (i.e. conding) experience with each technique.
+- Know the motivation behind a particular technique or language feature.
+- Learn how to use the technique or feature in practice.
+- Understand how different techniques/features achieve the same goal. 
 
-In particular, we will look into features from languages such as: Haskell, Idris, Scala, Racket, OCaml, Standard ML, etc. The content *is* biased towards Haskell, but our goal is to go beyond that when possible.
+We will primarily concern with languages such as: Haskell, Idris, Scala, OCaml, and Standard ML.
 
 ## Organization
 
-Each week will cover one topic with approximately one hour of reading material before the one hour meeting.
-The format of each meeting will be a questions-and-answers along with a walkthrough of one or more examples on the projector by the person responsible for the particular topic.
+Each week will follow a 1 + 1 hour schedule, i.e. one hour of *reading at home* followed by a *one hour discussion*.
+
+We will aim for light-weight reading material focused on practical usage of the subject technique or feature.
+
+The format of each meeting will be Q & A with a walk through of one or more of the examples from the material.
 
 ## Schedule
 
-### Modules, Signatures, and Functors
+#### Advanced Pattern Matching
 
-- [Modules in Standard ML](https://en.wikipedia.org/wiki/Standard_ML#Module_system) - Wikipedia
+- [Introduction to F# Active Patterns](https://blogs.msdn.microsoft.com/chrsmith/2008/02/21/introduction-to-f-active-patterns/) - Christian Smith, Blog Post, MSDN.
+- [Active Patterns in F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/active-patterns) - F# Documentation.
+- [The Neophyte's Guide to Scala Part 1: Extractors](http://danielwestheide.com/blog/2012/11/21/the-neophytes-guide-to-scala-part-1-extractors.html) - Daniel Westheide, blog post.
+- [The Neophyte's Guide to Scala Part 2: Extracting Sequences](http://danielwestheide.com/blog/2012/11/28/the-neophytes-guide-to-scala-part-2-extracting-sequences.html) - Daniel Westheide, blog post.
+- [View Patterns in Haskell](https://downloads.haskell.org/~ghc/8.0.1/docs/html/users_guide/glasgow_exts.html#view-patterns) - Haskell Documentation.
+
+#### Modules, Signatures, and Functors
+
+- [Modules in Standard ML](https://en.wikipedia.org/wiki/Standard_ML#Module_system) - Standard ML Module System, Wikipedia.
 - [A Crash Course on ML Modules](http://jozefg.bitbucket.org/posts/2015-01-08-modules.html)
 - [SML Modules](http://homepages.inf.ed.ac.uk/mfourman/teaching/mlCourse/notes/sml-modules.html)
 - [OCaml Modules](https://ocaml.org/learn/tutorials/modules.html)
 
-- [A Working Programmer’s Guide to Type-Indexed Values](https://blogs.janestreet.com/a-working-programmers-guide-to-type-indexed-values/) Blog Post, Jane Street (WHERE DOES THIS FIT?)
+#### Generalized Algebraic Data Types 
+
+- [Monad Reader](https://themonadreader.files.wordpress.com/2013/08/issue221.pdf)
 
 #### Type Classes I
 
@@ -53,44 +65,43 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - exponential, profunctors, contravariant
 - Free monads
 - Functional Depedencies
-- Finally Tagless https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80
 
 #### Monad Transformers
 
 
-#### Generalized Algebraic Data Types 
 
-- [Monad Reader](https://themonadreader.files.wordpress.com/2013/08/issue221.pdf)
-
-### Rank-N Types
+#### Rank-N Types
 
 - [Arbitrary Rank Polymorphism](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/glasgow_exts.html#arbitrary-rank-polymorphism) - GHC Doc
 - [24 Days of GHC Extensions: Rank N Types](https://ocharles.org.uk/blog/guest-posts/2014-12-18-rank-n-types.html)
 - [Explaining Haskell RankNTypes for All](http://sleepomeno.github.io/blog/2014/02/12/Explaining-Haskell-RankNTypes-for-all/)
 - [Higher-rank and higher-kinded types](https://www.stephanboyer.com/post/115/higher-rank-and-higher-kinded-types)
 
-### Lenses
+#### Lenses
 
 - [Lens Tutorial](https://hackage.haskell.org/package/lens-tutorial-1.0.2/docs/Control-Lens-Tutorial.html) - Haskell
 - [Optics for Scala](http://julien-truffaut.github.io/Monocle/)
 
-### Higher-Order Abstract Syntax
-
-- [Higher-Order Abstract Syntax](https://en.wikipedia.org/wiki/Higher-order_abstract_syntax) - Wikipedia
-- [Higher-Order Abstract Syntax](http://www.cs.cmu.edu/afs/cs/Web/People/fp/papers/pldi88.pdf) - Frank Pfenning & Conal Elliott (PLDI '88)
-
-### Higher Kinded Types
+#### Higher Kinded Types
 
 - [What is a Higher-Kinded Type?](http://stackoverflow.com/questions/6246719/what-is-a-higher-kinded-type-in-scala) - StackOverflow
 - [Scala: Types of a Higher Kind](http://blogs.atlassian.com/2013/09/scala-types-of-a-higher-kind/) - Atlassian
 - [Generics of a Higher Kind](http://adriaanm.github.io/files/higher.pdf) - Adriaan Moors, Frank Piessens, and Martin Odersky.
 
-### Row Polymorphism
+#### Row Polymorphism
 
 - [Row Polymorphism Isn't Subtyping](https://brianmckenna.org/blog/row_polymorphism_isnt_subtyping) - Blog Post
 - [What are the Major Differences Between Row Polymorphism and Subtyping?](http://cs.stackexchange.com/questions/53998/what-are-the-major-differences-between-row-polymorphism-and-subtyping) - StackOverflow
 
-### Phantom Types
+#### Type Families
+
+#### Codata/Corecursion/Comonad
+
+#### Type Level Programming
+
+- [Type-Level Instant Insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf) Conrad Parker, Monad Reader, Issue 8
+
+#### Phantom Types
 
 - [Phantom Type](https://wiki.haskell.org/Phantom_type) - Haskell Wiki
 - [Phantom Types](https://en.wikibooks.org/wiki/Haskell/Phantom_types) WikiBooks
@@ -98,25 +109,22 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Phantom Types in Scala](https://blog.codecentric.de/en/2016/02/phantom-types-scala/) - Blog Post
 - [Using Phantom Types for Extra Safety](http://blog.jakubarnold.cz/2014/07/08/using-phantom-types-for-extra-safety.html) - Blog Post
 
+#### Existential Types
 
-### Type Level Programming
+#### Singleton Types
 
-- [Type-Level Instant Insanity](https://wiki.haskell.org/wikiupload/d/dd/TMR-Issue8.pdf) Conrad Parker, Monad Reader, Issue 8
-
-### Week x: Continuations
+#### Continuations and Coroutines
 
 - Control Monad
 - Delimited Continuations
 
-### Existential Types
+#### Higher-Order Abstract Syntax
 
-### Singleton Types
+- [Higher-Order Abstract Syntax](https://en.wikipedia.org/wiki/Higher-order_abstract_syntax) - Wikipedia
+- [Higher-Order Abstract Syntax](http://www.cs.cmu.edu/afs/cs/Web/People/fp/papers/pldi88.pdf) - Frank Pfenning & Conal Elliott (PLDI '88)
 
-### Type Families
 
-### Codata/Corecursion/Comonad
-
-### Functional Reactive Prorgamming
+#### Functional Reactive Programming
 
 #### Arrows
 
@@ -125,13 +133,14 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 - [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
 - [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/) - Blog Post
 
-#### Misc
+#### Unsorted
 
 - [What, If Anything, Is A Declarative Language?](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
 - [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
 - [Boolean Blindness](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
-
+- [A Working Programmer’s Guide to Type-Indexed Values](https://blogs.janestreet.com/a-working-programmers-guide-to-type-indexed-values/) Blog Post, Jane Street.
+- [Revisiting Tagless Final Interpreters with Dotty](https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80) - GitHub
 
 ## Topics to be covered at a later time...
 
@@ -142,7 +151,6 @@ The format of each meeting will be a questions-and-answers along with a walkthro
 #### Implementation of Functional Languages
 
 - Partial Evaluation
-- Finally Tagless
 - Graph Reduction
 
 #### Staging and Meta-Programming
