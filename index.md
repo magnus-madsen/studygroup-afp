@@ -6,27 +6,28 @@ To learn advanced functional programming techniques, specifically to:
 - Learn how to use the technique or feature in practice.
 - Understand how different techniques/features achieve the same goal. 
 
-We will primarily concern with languages such as: Haskell, Idris, Scala, OCaml, and Standard ML.
+We will primarily concern us with languages such as: Haskell, Idris, Scala, OCaml, and Standard ML.
 
 ## Organization
 
-Each week will follow a 1 + 1 hour schedule, i.e. one hour of *reading at home* followed by a *one hour discussion*.
-
-We will aim for light-weight reading material focused on practical usage of the subject technique or feature.
-
-The format of each meeting will be Q & A with a walk through of one or more of the examples from the material.
+- Each week will follow a 1 + 1 hour schedule, i.e. expect about one hour of *reading at home* followed by a *one hour discussion* at university.
+- We will aim for light-weight reading material focused on practical usage.
+- The format of each meeting will be Q & A with a walk-through of one or more of the examples.
 
 ## Schedule
 
-#### Advanced Pattern Matching
+#### Advanced Pattern Matching (Week 1)
 
-- [Introduction to F# Active Patterns](https://blogs.msdn.microsoft.com/chrsmith/2008/02/21/introduction-to-f-active-patterns/) - Christian Smith, Blog Post, MSDN.
-- [Active Patterns in F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/active-patterns) - F# Documentation.
+- [Introduction to F# Active Patterns](https://blogs.msdn.microsoft.com/chrsmith/2008/02/21/introduction-to-f-active-patterns/) - Christian Smith, blog post.
+- [Active Patterns in F#](https://docs.microsoft.com/en-us/dotnet/articles/fsharp/language-reference/active-patterns) - F# documentation.
 - [The Neophyte's Guide to Scala Part 1: Extractors](http://danielwestheide.com/blog/2012/11/21/the-neophytes-guide-to-scala-part-1-extractors.html) - Daniel Westheide, blog post.
 - [The Neophyte's Guide to Scala Part 2: Extracting Sequences](http://danielwestheide.com/blog/2012/11/28/the-neophytes-guide-to-scala-part-2-extracting-sequences.html) - Daniel Westheide, blog post.
-- [View Patterns in Haskell](https://downloads.haskell.org/~ghc/8.0.1/docs/html/users_guide/glasgow_exts.html#view-patterns) - Haskell Documentation.
+- [24 Days of GHC Extensions: View Patterns](https://ocharles.org.uk/blog/posts/2014-12-02-view-patterns.html) - Oliver Charles, blog post.
+- [24 Days of GHC Extensions: Pattern Synonyms](https://ocharles.org.uk/blog/posts/2014-12-03-pattern-synonyms.html)  - Oliver Charles, blog post.
+- [View Patterns](https://downloads.haskell.org/~ghc/8.0.1/docs/html/users_guide/glasgow_exts.html#view-patterns) - Haskell documentation.
+- [Pattern Synonyms](https://downloads.haskell.org/~ghc/8.0.1/docs/html/users_guide/glasgow_exts.html#pattern-synonyms) - Haskell documentation.
 
-#### Modules, Signatures, and Functors
+#### Modules, Signatures, and Functors (Week 2)
 
 - [Modules in Standard ML](https://en.wikipedia.org/wiki/Standard_ML#Module_system) - Standard ML Module System, Wikipedia.
 - [A Crash Course on ML Modules](http://jozefg.bitbucket.org/posts/2015-01-08-modules.html)
