@@ -131,22 +131,28 @@ We will primarily concern us with languages such as: Haskell, Idris, Scala, OCam
 - [Higher-Order Abstract Syntax](https://en.wikipedia.org/wiki/Higher-order_abstract_syntax) - Wikipedia
 - [Higher-Order Abstract Syntax](http://www.cs.cmu.edu/afs/cs/Web/People/fp/papers/pldi88.pdf) - Frank Pfenning & Conal Elliott (PLDI '88)
 
-
 #### Functional Reactive Programming
+
+- [Functional Reactive Programming from First Principles](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.23.360&rep=rep1&type=pdf) - Zhanyong Wan and Paul Hudak, paper.
+- [What is (functional) reactive programming?](http://stackoverflow.com/a/1030631) - StackOverflow.
+- [What is Functional Reactive Programming?](https://www.quora.com/What-is-Functional-Reactive-Programming) - Quora.
+- [A Farewell to FRP](http://elm-lang.org/blog/farewell-to-frp) - Elm, blog post.
 
 #### Arrows
 
-- [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - research paper, John Huges
-- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows) - Wikibooks
-- [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki
-- [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/) - Blog Post
+- [Programming with Arrows](http://www.cse.chalmers.se/~rjmh/afp-arrows.pdf) - research paper, John Huges.
+- [Understanding Arrows](https://en.wikibooks.org/wiki/Haskell/Understanding_arrows) - Wikibooks.
+- [Arrow Tutorial](https://wiki.haskell.org/Arrow_tutorial) - Haskell Wiki.
+- [An Introduction to Arrows](http://blog.thecrossbowstore.com/2016/04/06/an-introduction-into-building-your-own-arrows/) - blog post, :-).
 
-#### Unsorted
+#### Fun Topics
 
 - [What, If Anything, Is A Declarative Language?](https://existentialtype.wordpress.com/2013/07/18/what-if-anything-is-a-declarative-language/)
 - [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
 - [Boolean Blindness](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
 - [Epigrams in Programming](http://www.cs.yale.edu/homes/perlis-alan/quotes.html)
+
+
 - [A Working Programmer’s Guide to Type-Indexed Values](https://blogs.janestreet.com/a-working-programmers-guide-to-type-indexed-values/) Blog Post, Jane Street.
 - [Revisiting Tagless Final Interpreters with Dotty](https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80) - GitHub
 
